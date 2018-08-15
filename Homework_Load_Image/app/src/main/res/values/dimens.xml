@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_width">300dp</dimen>
+    <dimen name="topSize">20dp</dimen>
+    <dimen name="buttonWidth">250dp</dimen>
+    <dimen name="buttonTopSize">30dp</dimen>
+    <dimen name="item_hight">80dp</dimen>
+    <dimen name="textSize">40sp</dimen>
+    <dimen name="startSize">40dp</dimen>
+    <dimen name="margin">3dp</dimen>
+</resources>

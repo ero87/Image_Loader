@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Homework_Load_Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_load">Image Load</string>
+    <string-array name="name_image">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+    </string-array>
+    <string-array name="url_image">
+        <item name="1">http://fotointeres.ru/wp-content/uploads/2013/12/1387445649_zimnie-zveroprikoly-1.jpg</item>
+        <item>https://secure.i.telegraph.co.uk/multimedia/archive/03519/potd-squirrel_3519920k.jpg</item>
+        <item>https://wallpaperbrowse.com/media/images/pictures-19.jpg</item>
+        <item></item>
+        <item>https://zabavnik.club/wp-content/uploads/Prikolnye_kartinki_123_01033735.jpg</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBDypsAq67QdsvGbJibb8XpZpaYllD_RkoW2CQ8w8oUhO9Woy</item>
+    </string-array>
+</resources>
